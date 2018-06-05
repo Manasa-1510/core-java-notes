@@ -1,0 +1,33 @@
+identifiers:
+Every name used is a identifier.
+Identifiers can start with atoz, Ato Z,_,$
+It can contain numbers also and nothing more.
+Norestriction on length.
+Java is strict case sensitive language.
+Reserved words cannot be identifiers.
+All predefined java classes names ans interface names can be used as identifiers but not recommended.
+int String  = 888;
+Super(String);
+int Runnable =999;
+Super(Runnable)
+int Int (valid as it is not reserved word)
+int int (invalid as int is reserved word)
+
+Reserved Words (53)
+Reserved literals : true,false(boolean values),null-->default value or object reference(3)
+unused keywords : goto , const(use final)(2)-->compile time error
+data types: byte,short,int,long,float,double,boolean,char(8)
+flow control: if,else,switch,case,break,continue,default,while,do,for,return(11)
+Modifiers: public,private,protected,static,final,abstract,synchonizer,native,strictfp,transient,volatile(11)
+Excepion handling: try,catch,finally,throw,throws,assert(6)
+Class: class,interface,extends,implements,package,import(6)
+Object : new,instanceof,super,this(4)
+returnType: void(1)
+Enum : enum ->define agroup of named constants.-> (1)
+enum Month{ JAN,FEB}
+- reserved words have ony lower case alphabets
+- only newkeyword and no delete keyword becausedestruction of useless objects isdone by GC
+
+
+
+Words have some meaning or represents a functionality 53.
